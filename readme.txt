@@ -1,0 +1,4 @@
+-------
+-Zak³adka piosenki zawieraj¹ listê piosenek, piosenki m¹ oznaczone chwyty gitarowe
+-Zak³adka akordy zawiera tabulaturê chwytu oraz zdjêcie pogl¹dowe
+-Zak³adka about zawiera informacje
